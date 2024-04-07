@@ -22,7 +22,7 @@
     }
 }
 
-/* @media (max-width: 425px){
+@media (max-width: 425px){
     .home .informacoes h1 {
         font-size: 30px;
     }
@@ -38,4 +38,4 @@
     .projetos {
         padding: 30px;
     }
-} */
+}
